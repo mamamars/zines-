@@ -1,2 +1,2 @@
 # zines
-A collection of zines. Collaborations and creations. 
+A collection of self-published zines. Designed by mamamars. 
